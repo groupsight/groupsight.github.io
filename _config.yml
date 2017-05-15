@@ -12,16 +12,15 @@
 title: GroupSight 
 subtitle: Workshop on Human Computation for Image and Video Analysis
 email: groupsight@lists.cs.brown.edu
-organization: GroupSight Workshop HCOMP 2016
+organization: GroupSight Workshop HCOMP 2017
 description: > # this means to ignore newlines until "baseurl:"
-  GroupSight Workshop on Human Computation for Image and Video Analysis is a workshop at the Fourth AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2016) to be held October 30 - November 3, 2016 in Austin, TX, USA.
+  The Second GroupSight Workshop on Human Computation for Image and Video Analysis is a workshop at the Fifth AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2017) to be held October 24 - November 26, 2017 in Quebec City, USA.
 
 # Build settings
 markdown: kramdown
-url: "http://groupsight.cs.brown.edu"
+url: "http://groupsight.github.io"
 sass:
   sass_dir: _sass
 include: ['_pages']
 kramdown:
   input: GFM
-destination: /web/cs/web/sites/groupsight
