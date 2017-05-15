@@ -1,0 +1,27 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# To build website from project directory, excute this command:
+# jekyll build -d /web/cs/web/sites/groupsight/ --config _config_dev.yml
+
+# Site settings
+title: GroupSight 
+subtitle: Workshop on Human Computation for Image and Video Analysis
+email: groupsight@lists.cs.brown.edu
+organization: GroupSight Workshop HCOMP 2016
+description: > # this means to ignore newlines until "baseurl:"
+  GroupSight Workshop on Human Computation for Image and Video Analysis is a workshop at the Fourth AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2016) to be held October 30 - November 3, 2016 in Austin, TX, USA.
+
+# Build settings
+markdown: kramdown
+url: "http://groupsight.cs.brown.edu"
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
+destination: /web/cs/web/sites/groupsight
