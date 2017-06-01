@@ -9,12 +9,12 @@
 # jekyll build -d <proj_dir> --config _config.yml
 
 # Site settings
-title: GroupSight 
-subtitle: Workshop on Human Computation for Image and Video Analysis
+title: GroupSight 2017
+subtitle: Second Workshop on Human Computation for Image and Video Analysis
 email: groupsight@outlook.com
 organization: GroupSight Workshop HCOMP 2017
 description: > # this means to ignore newlines until "baseurl:"
-  The Second GroupSight Workshop on Human Computation for Image and Video Analysis is a workshop at the Fifth AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2017) to be held October 24 - November 26, 2017 in Quebec City, USA.
+  The Second GroupSight Workshop on Human Computation for Image and Video Analysis is a workshop at the Fifth AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2017) to be held October 24 - 26, 2017 in Quebec City, Canada.
 
 # Build settings
 markdown: kramdown
