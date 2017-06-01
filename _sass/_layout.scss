@@ -60,11 +60,11 @@
   width: 100%;
   background: url(../img/home_banner.jpg) no-repeat center;
   background-size: cover;
-  background-position: top; 
+  background-position: top;
 
-  
+
   font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-weight: 700;   
+  font-weight: 700;
   color: $background-color;
   font-size: 64px;
 
@@ -92,7 +92,7 @@
     top: 0;
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
 
-    background:  url(../img/home_banner.jpg) no-repeat center;
+    background: none;
     background-position:top;
     -moz-transition-duration: 0.7s;
     -o-transition-duration: 0.7s;
